@@ -1,0 +1,24 @@
+{
+  "name": "telegrambot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klaod/telegramBot.git"
+  },
+  "author": "klaod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/klaod/telegramBot/issues"
+  },
+  "homepage": "https://github.com/klaod/telegramBot#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node-telegram-bot-api": "^0.28.0",
+    "rss": "^1.2.2"
+  }
+}
